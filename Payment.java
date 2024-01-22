@@ -1,5 +1,5 @@
 class Payment {
     public void doPayments() {
-        system.io.println("")
+        system.out.println("Payments added")
     }
 }
